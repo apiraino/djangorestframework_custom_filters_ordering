@@ -1,14 +1,14 @@
 [[source]]
+name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-name = "pypi"
 
 [dev-packages]
 tox = "*"
 
 [packages]
-djangorestframework = "==3.9.0"
-django = "==1.11.19"
+Django = "==1.11.21"
+djangorestframework = ">=3.9.1"
 
 [requires]
 python_version = "2.7"

@@ -1,2 +1,0 @@
-djangorestframework==3.9.0
-django==1.11.19
