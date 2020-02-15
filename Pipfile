@@ -7,7 +7,7 @@ verify_ssl = true
 tox = "*"
 
 [packages]
-Django = ">=1.11"
+Django = ">=1.11.28"
 djangorestframework = ">=3.9.1"
 
 [requires]
